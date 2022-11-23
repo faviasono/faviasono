@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @faviasono
-- 👀 I’m interested in Artificial Intelligence, wellbeing, and sustainability.
-- 🌱 I’m currently reading "The ocean between us" and learning about Self-supervised learning!
+- 👋 Hi, I’m Andrea Favia (@faviasono)
+- 👀 I’m interested in Artificial Intelligence 🤖, wellbeing 🧘🏻‍♂️, and sustainability. 🌲
+- 🌱 I’m currently reading "Why Has Nobody Told Me This Before?" 🧠 and learning RUST! 
 - 📫 How to reach me: andrea.favia@pm.me
 
 <!---
