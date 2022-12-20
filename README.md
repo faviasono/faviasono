@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrea Favia (@faviasono)
 - 👀 I’m interested in Artificial Intelligence 🤖, wellbeing 🧘🏻‍♂️, and sustainability. 🌲
-- 🌱 I’m currently reading "Four Thousand Weeks" 🧠 and learning RUST! 
+- 🌱 I’m currently reading "Being Mortal" 🧠 and learning RUST! 
 - 📫 How to reach me: andrea.favia@pm.me
 
 <!---
