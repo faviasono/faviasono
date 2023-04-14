@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrea Favia (@faviasono)
 - 👀 I’m interested in Artificial Intelligence 🤖, wellbeing 🧘🏻‍♂️, and sustainability. 🌲
-- 🌱 I’m currently reading "The Man Who Mistook His Wife for a Hat"  and learning Flutter! 
+- 🌱 I’m currently reading "Rational Optimism" and learning Flutter and LLMs! 
 - 📫 How to reach me: andrea.favia@pm.me
 
 <!---
