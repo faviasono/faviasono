@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrea Favia (@faviasono)
 - 👀 I’m interested in Artificial Intelligence 🤖, wellbeing 🧘🏻‍♂️, and sustainability. 🌲
-- 🌱 I’m currently reading "Rational Optimism" and learning Flutter and LLMs! 
+- 🌱 I’m currently reading "Into The Wild" and trying to stay up to date with LLMs.
 - 📫 How to reach me: andrea.favia@pm.me
 
 <!---
